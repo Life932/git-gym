@@ -1,4 +1,4 @@
-Entry 1: Started the Gym
+I LOVE GitHub
 
 Entry 2: It's quite intriguing that I am making a git project for no reason at all.
 

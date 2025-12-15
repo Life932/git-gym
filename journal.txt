@@ -1,4 +1,4 @@
-I HATE GitHub
+I have mixed feelings regarding Git.
 
 Entry 2: It's quite intriguing that I am making a git project for no reason at all.
 

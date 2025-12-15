@@ -5,3 +5,5 @@ Entry 2: It's quite intriguing that I am making a git project for no reason at a
 Entry 3: Quite Boring? I don't think so. 
 
 Entry 4: Inner Peace Hm... Inner Peace... Inner Peach... Winter Peaches?
+
+Entry 5: Alright, this line is going to be the last one I write.

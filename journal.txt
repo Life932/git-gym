@@ -3,3 +3,5 @@ Entry 1: Started the Gym
 Entry 2: It's quite intriguing that I am making a git project for no reason at all.
 
 Entry 3: Quite Boring? I don't think so. 
+
+Entry 4: Inner Peace Hm... Inner Peace... Inner Peach... Winter Peaches?

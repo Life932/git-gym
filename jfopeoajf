@@ -1,0 +1,110 @@
+[33mcommit 44d51bf4c4b7aaf9e95fbd16668baf88f723a230[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 14:45:45 2025 +0600
+
+    Free Practice
+
+[33mcommit f02ae2bf5bae1714fee523cf304cc1c813e0ef0f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d24834f 97a6604
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 14:41:54 2025 +0600
+
+    Merged from both library and home
+
+[33mcommit d24834f1b90085642ef372ac8da0e5d1eca7d44f[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 14:40:03 2025 +0600
+
+    Home Update
+
+[33mcommit 97a6604da9e62f66089e4edac74ca6fdb229d580[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 14:37:57 2025 +0600
+
+    Library Update
+
+[33mcommit e5c6d24c1bac403de715207a4de40da38e2b8b15[m
+Merge: d71e729 bf33489
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 14:19:23 2025 +0600
+
+    Fixed the conflict that arised during merging
+
+[33mcommit d71e729ba0f6095f2ae030f5277084db2400987b[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 14:16:18 2025 +0600
+
+    Changed first line in main
+
+[33mcommit bf334890c695d03f11ced672d99a50d98bf6dd6c[m[33m ([m[1;32mconflict-branch[m[33m)[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 14:15:16 2025 +0600
+
+    Changed 1st line in Branch
+
+[33mcommit 80d236781c6386ac5633259106563e4cae6333cb[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 14:12:52 2025 +0600
+
+    Updated for GitHub Cloud
+
+[33mcommit 09607876b7d9256c7bebdcd6d2638c01857cf368[m
+Merge: 8363467 5c77083
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 13:58:43 2025 +0600
+
+    Merge branch 'main' of https://github.com/Life932/git-gym
+
+[33mcommit 5c77083270cf36726d62c0faa6a3df408381f881[m
+Author: Abdullah Ahmad Sadik <74974785+Life932@users.noreply.github.com>
+Date:   Mon Dec 15 13:44:12 2025 +0600
+
+    Initial commit
+
+[33mcommit 836346730aabaff4f174a95a559782e61fd85417[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 13:36:03 2025 +0600
+
+    Logged my sleep schedule and ended the document
+
+[33mcommit 04a80d123ccf135d580c743962046a77af7de087[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 13:33:14 2025 +0600
+
+    Logged my lunch habits
+
+[33mcommit a04e0b380afd6441c8bea653ec4e93eeb47ea962[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 13:06:56 2025 +0600
+
+    Logged morning routine
+
+[33mcommit cfd4aa28a0e3dbba8960fa7fff02af47c655a60d[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 13:02:23 2025 +0600
+
+    Added entry 5
+
+[33mcommit 74084168dc246da8846604192b5f9a3a346b400a[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 13:01:05 2025 +0600
+
+    Added entry 4
+
+[33mcommit d4b5b91944d341e431abe75b8505d6063064bebf[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 12:59:39 2025 +0600
+
+    Added entry 3
+
+[33mcommit 51883c042fd0a15f0aecaf45f4d06164fb3d8efd[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 12:57:48 2025 +0600
+
+    Added entry 2
+
+[33mcommit 8447cea21f16d1d0ed4395b22292e72cff1c5a34[m
+Author: Abdullah Ahmad Sadik <jesmin812020@gmail.com>
+Date:   Mon Dec 15 12:56:00 2025 +0600
+
+    Added entry 1
